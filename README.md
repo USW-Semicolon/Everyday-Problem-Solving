@@ -29,11 +29,14 @@ Programmgers: 문제_이름
 <table>
  <tr>
     <td align="center"><a href="https://github.com/jxng-min"><img src="https://avatars.githubusercontent.com/jxng-min" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hoooonshub"><img src="https://avatars.githubusercontent.com/hoooonshub" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jxng-min"><b>jxng-min</b></a></td>
+    <td align="center"><a href="https://github.com/hoooonshub"><b>hoooonshub</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img alt="CPP" src ="https://img.shields.io/badge/C%2B%2B-1A66CC.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/></td>
+    <td align="center"><img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></td>
   </tr> 
 </table>
