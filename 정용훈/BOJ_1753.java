@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 import java.util.stream.IntStream;
 
-public class Main {
+public class BOJ_1753 {
     private static final int INF = Integer.MAX_VALUE;
 
     private static List<List<Node>> graph;
