@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 // 각각 System.out.println 로 호출
-public class Main {
+public class BOJ_10828 {
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static StringTokenizer st;
 
